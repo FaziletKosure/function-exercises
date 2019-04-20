@@ -3,9 +3,12 @@
 Some exercises to help understand functions
 
 ### Index
+0. [examples to study](./0-examples-to-study.md)
 1. [functions](./1-functions.md)
 2. [turtle shuffle](./2-turtle-shuffle.md)
 3. [callstack](./3-callstack.md)
+4. [reference-type arguments](./4-reference-type-arguments.md)
+5. [functions as arguments](./5-functions-as-arguments.md)
 
 ---
 
